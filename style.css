@@ -1,0 +1,21 @@
+@import "https://www.nerdfonts.com/assets/css/webfont.css";
+
+* {
+    color: #5881C1;
+    font-family: 'ComicShannsMonoNF-Regular';
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 320px;
+    height: 132px;
+}
+
+.item {
+    text-align: center;
+
+    font-size: 32px;
+}
